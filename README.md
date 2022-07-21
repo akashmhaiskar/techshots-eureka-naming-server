@@ -1,0 +1,1 @@
+# techshots-eureka-naming-server
